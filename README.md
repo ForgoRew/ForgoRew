@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForgoRew a student of Bioinformatics, Bc. at [NATUR CUNI](https://www.natur.cuni.cz/eng)
 - 👀 I’m interested in protein folding and structure predictions.
-- 🌱 I’m currently learning coding in Java. Also developing some bioinf skills and coding in C#
+- 🌱 Currently I learn coding in Java. Also developing some bioinformatics skills and coding in C#
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
